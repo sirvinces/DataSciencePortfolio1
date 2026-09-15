@@ -18,4 +18,4 @@ I learned how to track changes and manage version control using meaningful commi
 ### Interactive Greeting Project 
 My first Python project created in GitHub. 
 
-[View Project](greeting-project)
+[View Project](greeting%20project)
